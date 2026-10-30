@@ -1,0 +1,6 @@
+{
+  "name": "SupplyShield",
+  "description": "Real-time supply chain monitoring and resilience platform connecting suppliers, factories, warehouses, hubs, drivers, and customers with algorithmic recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
